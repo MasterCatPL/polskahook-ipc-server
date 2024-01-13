@@ -1,1 +1,1 @@
-# rosnehook-ipc-server
+# polskahook-ipc-server
